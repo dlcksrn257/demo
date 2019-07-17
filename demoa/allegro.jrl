@@ -1,0 +1,33 @@
+\t (02:13:29) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (02:13:29)     Journal start - Wed Jul 17 14:32:10 2019
+\t (02:13:29)         Host=DESKTOP-0CCQGI6 User=user Pid=2684 CPUs=4
+\t (02:13:29) CmdLine= allegro.exe -p .
+\t (02:13:29) 
+\d (02:13:29) Design opened: C:/Users/user/Desktop/vscode_orcad/workspace/demoa/demoa2.brd
+\i (02:13:29) signalintegrity 
+\i (02:13:38) open 
+\i (02:13:40) fillin "demoa.brd"
+\t (02:13:40) Opening existing design...
+\i (02:13:41) trapsize 104
+\d (02:13:41) Design opened: C:/Users/user/Desktop/vscode_orcad/workspace/demoa/demoa.brd
+\i (02:13:41) signalintegrity 
+\i (02:14:00) open 
+\i (02:14:41) fillin "C:\Users\user\Desktop\vscode_orcad\samples\layout_samples_r02\layout_samples_r02\demoa\demoa.dsn"
+\i (02:14:41) cd "C:\Users\user\Desktop\vscode_orcad\samples\layout_samples_r02\layout_samples_r02\demoa"
+\t (02:14:41) Opening existing design...
+\e (02:14:41) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\e (02:14:41) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\i (02:14:43) fillin confirm
+\t (02:14:43) Starting new design...
+\i (02:14:43) trapsize 3024
+\i (02:15:04) fillin "demoa2.dsn"
+\t (02:15:04) Opening existing design...
+\e (02:15:04) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\e (02:15:04) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\i (02:15:06) fillin confirm
+\t (02:15:06) Starting new design...
+\i (02:15:06) trapsize 3024
+\i (02:15:34) fillin "demoa2.brd"
+\t (02:15:34) Opening existing design...
+\i (02:15:34) trapsize 377
+\t (02:15:34)     Journal end - Wed Jul 17 14:34:15 2019
